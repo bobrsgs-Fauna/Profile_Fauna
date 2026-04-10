@@ -63,7 +63,7 @@ body {
 .hero-bg {
     position: absolute;
     inset: 0;
-    background: url('/images/hero-bg.jpg.jpg') center/cover no-repeat;
+    background: url('hero-bg.jpg.jpg') center/cover no-repeat;
     
     transform: scale(1.2);
     will-change: transform;
@@ -232,7 +232,7 @@ body {
     content: "";
     position: absolute;
     inset: 0;
-    background: url('/images/body-bg.jpg.jpg') center/cover no-repeat;
+    background: url('body-bg.jpg.jpg') center/cover no-repeat;
     filter: blur(1px);
 }
 
